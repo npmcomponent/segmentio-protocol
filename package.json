@@ -1,0 +1,9 @@
+{
+  "name": "segmentio-protocol",
+  "description": "Testing component used to fake different protocols from the browser",
+  "version": "0.0.2",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
